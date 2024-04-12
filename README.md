@@ -1,4 +1,4 @@
-#Personal projects --- Data Science
+# Personal projects --- Data Science
 This Repository consists of Projects done by me.Projects are presented in the form of Google colab notebooks<br>
 ## Instructions for running Python Notebooks Locally
 Run notebooks as usual by using a jupyter notebook server, Vscode etc.<br>
